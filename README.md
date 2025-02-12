@@ -47,9 +47,6 @@ Contributions are welcome! If you'd like to contribute, please follow these guid
 
 Please ensure your contributions keep the content clear, concise, and aligned with the repository's educational objectives.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ---
 
 *Happy Learning & Cloud Exploring!*
